@@ -2,30 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "CLI11-Demonstrator_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/cedric/meine_DB_Anwendung/build"
-		},
-		{
-			"name" : "CLI11-Demonstrator_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/cedric/meine_DB_Anwendung"
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -731,7 +707,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "CLI11-Demonstrator"
+			"value" : "meine_DB_Anwendung"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1012,6 +988,30 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "meine_DB_Anwendung_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/cedric/meine_DB_Anwendung/build"
+		},
+		{
+			"name" : "meine_DB_Anwendung_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/cedric/meine_DB_Anwendung"
 		}
 	],
 	"kind" : "cache",

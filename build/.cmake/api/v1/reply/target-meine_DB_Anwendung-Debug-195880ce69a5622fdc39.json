@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "CLI11-Demonstrator"
+			"path" : "meine_DB_Anwendung"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
+				"line" : 10,
 				"parent" : 0
 			}
 		]
@@ -45,7 +45,7 @@
 			]
 		}
 	],
-	"id" : "CLI11-Demonstrator::@6890427a1f51a3e7e1df",
+	"id" : "meine_DB_Anwendung::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -61,8 +61,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "CLI11-Demonstrator",
-	"nameOnDisk" : "CLI11-Demonstrator",
+	"name" : "meine_DB_Anwendung",
+	"nameOnDisk" : "meine_DB_Anwendung",
 	"paths" : 
 	{
 		"build" : ".",
